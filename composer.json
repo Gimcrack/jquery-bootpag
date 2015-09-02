@@ -1,0 +1,16 @@
+{
+    "name": "ingenious/jquery-bootpag",
+    "description": "Bootstrap dynamic pagination jQuery plugin",
+    "type": "library",
+    "require": {
+        "components/jquery": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "botmonster",
+            "email": "email@botmonster.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
